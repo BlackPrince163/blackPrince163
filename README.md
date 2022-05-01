@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!
 
 - 🔭 I successfully completed the first year of university!
-- 🌱 I’m currently learning Django and React
+- 🌱 I’m currently learning Django and Vue
 - 🥅 2022 Goals: To become a full stack developer
 
 ----
