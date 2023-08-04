@@ -2,9 +2,9 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I successfully completed the second year of university!
-- 🌱 I’m currently learning Django and Vue
-- 🥅 2022 Goals: To become a full stack developer
+- 🔭 I successfully completed the third year of university!
+- 🌱 I’m currently learning Django, Vue and Golang
+- 🥅 2023 Goals: To become a full stack developer
 
 ----
 
