@@ -4,7 +4,7 @@
 
 - 🔭 I successfully completed the third year of university!
 - 🌱 I’m currently learning Django, Vue and Golang
-- 🥅 2023 Goals: To become a full stack developer
+- 🥅 2024 Goals: To become a full stack developer
 
 ----
 
